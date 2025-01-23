@@ -2,7 +2,7 @@
 
 
 ``
-Layout is done, PCBA is on progress...
+[](https://www.youtube.com/watch?v=Y3GoYqw6YXA&list=PLBWrS0_J_mZ2AYpXI1URpqJv-m0bLa1Cb)
 ``
 
 
