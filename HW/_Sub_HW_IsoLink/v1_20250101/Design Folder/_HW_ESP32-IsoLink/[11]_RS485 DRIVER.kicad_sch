@@ -1,0 +1,5170 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "35aef304-1a44-44f8-a587-95ab858d8d81")
+	(paper "C")
+	(title_block
+		(comment 2 "RELEASED")
+	)
+	(lib_symbols
+		(symbol "_SCHLIB_ESP32-IsoLink:CAP_MLCC_1uF_16V_10%_X7R_C0603"
+			(exclude_from_sim yes)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 2.794 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "1uF_16V_10%"
+				(at 2.794 6.096 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "_PCBLIB_ESP32-IsoLink:C_0603_1608Metric"
+				(at 2.794 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL10B105KO8NNN"
+				(at 2.794 52.07 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "1 µF ±10% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
+				(at 2.794 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Package" "C0603"
+				(at 2.794 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Manufacturer 1" "Samsung Electro-Mechanics"
+				(at 2.794 21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN 1" "CL10B105KO8NNNC"
+				(at 2.794 23.876 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1 Part# - TR" "1276-1019-2-ND"
+				(at 2.794 29.21 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1 Part# - CT" "1276-1019-1-ND"
+				(at 2.794 31.75 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1" "Digikey"
+				(at 2.794 26.67 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Purchase Link 1" "https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL10B105KO8NNNC/3886677"
+				(at 2.794 34.29 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer 2" "Samsung Electro-Mechanics"
+				(at 2.794 36.83 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN 2" "CL10B105KO8NNNC"
+				(at 2.794 39.37 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2 Part# - TR" "CL10B105KO8NNNC"
+				(at 2.794 44.45 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2 Part# - CT" "CL10B105KO8NNNC"
+				(at 2.794 46.99 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2" "LCSC Electronics"
+				(at 2.794 41.91 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Purchase Link 2" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10B105KO8NNNC_C59782.html?s_z=n_CL10B105KO8NNNC"
+				(at 2.794 49.53 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "SCH CHECK" "SCH (N/A)"
+				(at 2.794 16.256 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "PCB CHECk" "PCB (N/A)"
+				(at 2.794 19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(symbol "CAP_MLCC_1uF_16V_10%_X7R_C0603_0_1"
+				(polyline private
+					(pts
+						(xy 2.54 2.54) (xy 27.94 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 5.08) (xy 27.94 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 7.62) (xy 27.94 7.62)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 10.16) (xy 27.94 10.16)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 12.7) (xy 27.94 12.7)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 15.24) (xy 27.94 15.24)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 17.78) (xy 27.94 17.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 20.32) (xy 27.94 20.32)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 22.86) (xy 27.94 22.86)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 25.4) (xy 27.94 25.4)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 27.94) (xy 27.94 27.94)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 30.48) (xy 27.94 30.48)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 33.02) (xy 27.94 33.02)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 35.56) (xy 27.94 35.56)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 38.1) (xy 27.94 38.1)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 40.64) (xy 27.94 40.64)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 43.18) (xy 27.94 43.18)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 45.72) (xy 27.94 45.72)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 48.26) (xy 27.94 48.26)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 50.8) (xy 27.94 50.8)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 1.27) (xy 5.08 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 1.27) (xy 7.62 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CAP_MLCC_1uF_16V_10%_X7R_C0603_1_1"
+				(pin passive line
+					(at 0 0 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "_SCHLIB_ESP32-IsoLink:CONN_TERM BLK_1x2_150V_6A_HORIZON_THD-2.54MM"
+			(exclude_from_sim yes)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 2.794 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "TERM_1x02_HORIZON"
+				(at 2.794 6.096 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "_PCBLIB_ESP32-IsoLink:TerminalBlock-2.54-2P_1x02_P2.54mm_Horizontal"
+				(at 2.794 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.we-online.com/katalog/datasheet/6912109100xx.pdf"
+				(at 2.794 52.07 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "2 Position Wire to Board Terminal Block Horizontal with Board 0.100\" (2.54mm) Through Hole"
+				(at 2.794 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Package" "THD-2.54MM"
+				(at 2.794 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Manufacturer 1" "Würth Elektronik"
+				(at 2.794 21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN 1" "691210910002"
+				(at 2.794 23.876 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1 Part# - TR" "732-691210910002-ND"
+				(at 2.794 29.21 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1 Part# - CT" "732-691210910002-ND"
+				(at 2.794 31.75 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1" "Digikey"
+				(at 2.794 26.67 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Purchase Link 1" "https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/691210910002/10668428"
+				(at 2.794 34.29 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer 2" "MAX"
+				(at 2.794 36.83 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN 2" "MX128-2.54-02P-GN01-Cu-Y-A"
+				(at 2.794 39.37 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2 Part# - TR" "C5188442"
+				(at 2.794 44.45 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2 Part# - CT" "C5188442"
+				(at 2.794 46.99 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2" "LCSC Electronics"
+				(at 2.794 41.91 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Purchase Link 2" "https://www.lcsc.com/product-detail/Screw-Terminal-Blocks_MAX-MX128-2-54-02P-GN01-Cu-Y-A_C5188442.html?s_z=n_2.54mm"
+				(at 2.794 49.53 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "SCH CHECK" "SCH (N/A)"
+				(at 2.794 16.256 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "PCB CHECk" "PCB (N/A)"
+				(at 2.794 19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(symbol "CONN_TERM BLK_1x2_150V_6A_HORIZON_THD-2.54MM_0_1"
+				(polyline private
+					(pts
+						(xy 2.54 2.54) (xy 27.94 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 5.08) (xy 27.94 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 7.62) (xy 27.94 7.62)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 10.16) (xy 27.94 10.16)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 12.7) (xy 27.94 12.7)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 15.24) (xy 27.94 15.24)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 17.78) (xy 27.94 17.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 20.32) (xy 27.94 20.32)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 22.86) (xy 27.94 22.86)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 25.4) (xy 27.94 25.4)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 27.94) (xy 27.94 27.94)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 30.48) (xy 27.94 30.48)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 33.02) (xy 27.94 33.02)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 35.56) (xy 27.94 35.56)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 38.1) (xy 27.94 38.1)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 40.64) (xy 27.94 40.64)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 43.18) (xy 27.94 43.18)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 45.72) (xy 27.94 45.72)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 48.26) (xy 27.94 48.26)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 50.8) (xy 27.94 50.8)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "CONN_TERM BLK_1x2_150V_6A_HORIZON_THD-2.54MM_1_1"
+				(rectangle
+					(start 0 0)
+					(end 6.35 -10.16)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "TERM 2POS\nHORIZ 2.54MM"
+					(at 3.302 -5.08 900)
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -3.81 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -6.35 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "_SCHLIB_ESP32-IsoLink:DIODE_TVS_CDSOT23-SM712_12V/7V_13.3V/ 7.5V_17A(8/20us)_SOT-23-3"
+			(exclude_from_sim yes)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "D"
+				(at 2.794 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "TVS_12V/7V_17A"
+				(at 2.794 6.096 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "_PCBLIB_ESP32-IsoLink:SOT-23-3"
+				(at 2.794 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf"
+				(at 2.794 52.07 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "26V, 14V Clamp 17A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-3"
+				(at 2.794 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Package" "SOT-23-3"
+				(at 2.794 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Manufacturer 1" "Bourns Inc."
+				(at 2.794 21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN 1" "CDSOT23-SM712"
+				(at 2.794 23.876 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1 Part# - TR" "CDSOT23-SM712TR-ND"
+				(at 2.794 29.21 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1 Part# - CT" "CDSOT23-SM712CT-ND"
+				(at 2.794 31.75 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1" "Digikey"
+				(at 2.794 26.67 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Purchase Link 1" "https://www.digikey.ca/en/products/detail/bourns-inc/CDSOT23-SM712/1630592"
+				(at 2.794 34.29 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer 2" "BOURNS"
+				(at 2.794 36.83 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN 2" "CDSOT23-SM712"
+				(at 2.794 39.37 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2 Part# - TR" "C404012"
+				(at 2.794 44.45 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2 Part# - CT" "C404012"
+				(at 2.794 46.99 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2" "LCSC Electronics"
+				(at 2.794 41.91 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Purchase Link 2" "https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_BOURNS-CDSOT23-SM712_C404012.html?s_z=n_CDSOT23-SM712"
+				(at 2.794 49.53 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "SCH CHECK" "SCH (N/A)"
+				(at 2.794 16.256 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "PCB CHECk" "PCB (N/A)"
+				(at 2.794 19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(symbol "DIODE_TVS_CDSOT23-SM712_12V/7V_13.3V/ 7.5V_17A(8/20us)_SOT-23-3_0_1"
+				(polyline private
+					(pts
+						(xy 2.54 2.54) (xy 27.94 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 5.08) (xy 27.94 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 7.62) (xy 27.94 7.62)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 10.16) (xy 27.94 10.16)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 12.7) (xy 27.94 12.7)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 15.24) (xy 27.94 15.24)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 17.78) (xy 27.94 17.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 20.32) (xy 27.94 20.32)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 22.86) (xy 27.94 22.86)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 25.4) (xy 27.94 25.4)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 27.94) (xy 27.94 27.94)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 30.48) (xy 27.94 30.48)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 33.02) (xy 27.94 33.02)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 35.56) (xy 27.94 35.56)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 38.1) (xy 27.94 38.1)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 40.64) (xy 27.94 40.64)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 43.18) (xy 27.94 43.18)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 45.72) (xy 27.94 45.72)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 48.26) (xy 27.94 48.26)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 50.8) (xy 27.94 50.8)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "DIODE_TVS_CDSOT23-SM712_12V/7V_13.3V/ 7.5V_17A(8/20us)_SOT-23-3_1_1"
+				(polyline
+					(pts
+						(xy 3.175 -8.89) (xy 0 -8.89)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 -3.81) (xy 0 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 -8.89) (xy 6.985 -8.89)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 -3.81) (xy 6.985 -3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 11.43 -6.35) (xy 12.7 -6.35)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 -7.62) (xy 3.175 -10.16) (xy 3.81 -10.16)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.175 -2.54) (xy 3.175 -5.08) (xy 3.81 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.652 -10.287) (xy 9.652 -7.493) (xy 8.89 -7.493)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.652 -5.207) (xy 9.652 -2.413) (xy 8.89 -2.413)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 -10.16) (xy 5.715 -7.62) (xy 3.175 -8.89) (xy 5.715 -10.16)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.715 -5.08) (xy 5.715 -2.54) (xy 3.175 -3.81) (xy 5.715 -5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 -7.62) (xy 6.985 -10.16) (xy 9.525 -8.89) (xy 6.985 -7.62)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.985 -2.54) (xy 6.985 -5.08) (xy 9.525 -3.81) (xy 6.985 -2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 9.525 -3.81) (xy 11.43 -3.81) (xy 11.43 -8.89) (xy 9.525 -8.89)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0 0)
+					(end 12.7 -12.7)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -5.08 -3.81 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -8.89 0)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 17.78 -6.35 180)
+					(length 5.08)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "_SCHLIB_ESP32-IsoLink:IC_Transceiver_THVD1400DR_Half-Duplex_RS485_8-SOIC (0.154{dblquote})"
+			(exclude_from_sim yes)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 2.794 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "THVD1400DR"
+				(at 2.794 6.096 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "_PCBLIB_ESP32-IsoLink:SOIC-8_3.9x4.9mm_P1.27mm"
+				(at 2.794 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fthvd1400"
+				(at 2.794 52.07 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "1/1 Transceiver Half RS422, RS485 8-SOIC (0.154\")"
+				(at 2.794 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Package" "8-SOIC (0.154\")"
+				(at 2.794 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Manufacturer 1" "Texas Instruments"
+				(at 2.794 21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN 1" "THVD1400DR"
+				(at 2.794 23.876 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1 Part# - TR" "296-THVD1400DRTR-ND"
+				(at 2.794 29.21 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1 Part# - CT" "296-THVD1400DRCT-ND"
+				(at 2.794 31.75 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1" "Digikey"
+				(at 2.794 26.67 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Purchase Link 1" "https://www.digikey.ca/en/products/detail/texas-instruments/THVD1400DR/13636656?s=N4IgTCBcDa4JwDYC0AVAEgNQCIEYAsADAVgEoolIByWIAugL5A"
+				(at 2.794 34.29 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer 2" "Texas Instruments"
+				(at 2.794 36.83 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN 2" "THVD1400DR"
+				(at 2.794 39.37 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2 Part# - TR" "C3235232"
+				(at 2.794 44.45 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2 Part# - CT" "C3235232"
+				(at 2.794 46.99 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2" "LCSC Electronics"
+				(at 2.794 41.91 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Purchase Link 2" "https://www.lcsc.com/product-detail/RS-485-RS-422-ICs_Texas-Instruments-THVD1400DR_C3235232.html?s_z=n_THVD1400DR"
+				(at 2.794 49.53 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "SCH CHECK" "SCH (N/A)"
+				(at 2.794 16.256 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "PCB CHECk" "PCB (N/A)"
+				(at 2.794 19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(symbol "IC_Transceiver_THVD1400DR_Half-Duplex_RS485_8-SOIC (0.154{dblquote})_0_1"
+				(polyline private
+					(pts
+						(xy 2.54 2.54) (xy 27.94 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 5.08) (xy 27.94 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 7.62) (xy 27.94 7.62)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 10.16) (xy 27.94 10.16)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 12.7) (xy 27.94 12.7)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 15.24) (xy 27.94 15.24)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 17.78) (xy 27.94 17.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 20.32) (xy 27.94 20.32)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 22.86) (xy 27.94 22.86)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 25.4) (xy 27.94 25.4)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 27.94) (xy 27.94 27.94)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 30.48) (xy 27.94 30.48)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 33.02) (xy 27.94 33.02)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 35.56) (xy 27.94 35.56)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 38.1) (xy 27.94 38.1)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 40.64) (xy 27.94 40.64)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 43.18) (xy 27.94 43.18)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 45.72) (xy 27.94 45.72)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 48.26) (xy 27.94 48.26)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 50.8) (xy 27.94 50.8)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "IC_Transceiver_THVD1400DR_Half-Duplex_RS485_8-SOIC (0.154{dblquote})_1_1"
+				(polyline
+					(pts
+						(xy 0 -12.7) (xy 15.24 -12.7)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 0 0)
+					(end 15.24 -17.78)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(text "8-SOIC (0.154\")"
+					(at 7.62 -16.256 0)
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(text "THVD1400DR"
+					(at 7.366 -14.224 0)
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 5.08)
+					(name "R"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -10.16 0)
+					(length 5.08)
+					(name "~{RE}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -7.62 0)
+					(length 5.08)
+					(name "DE"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -5.08 0)
+					(length 5.08)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 -10.16 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 -7.62 180)
+					(length 5.08)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 -5.08 180)
+					(length 5.08)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 20.32 -2.54 180)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "_SCHLIB_ESP32-IsoLink:RES_10kR_1/10W_1%_R0603"
+			(exclude_from_sim yes)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.794 3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "10kR_1/10W_1%"
+				(at 2.794 6.096 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "_PCBLIB_ESP32-IsoLink:R_0603_1608Metric"
+				(at 2.794 13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+				(at 2.794 52.07 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+				(at 2.794 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Package" "R0603"
+				(at 2.794 11.43 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Manufacturer 1" "Panasonic Electronic Components"
+				(at 2.794 21.59 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN 1" "ERJ-3EKF1002V"
+				(at 2.794 23.876 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1 Part# - TR" "P10.0KHTR-ND"
+				(at 2.794 29.21 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1 Part# - CT" "P10.0KHCT-ND"
+				(at 2.794 31.75 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 1" "Digikey"
+				(at 2.794 26.67 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Purchase Link 1" "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-3EKF1002V/196066"
+				(at 2.794 34.29 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer 2" "YAGEO"
+				(at 2.794 36.83 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "MPN 2" "RC0603FR-0710KL"
+				(at 2.794 39.37 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2 Part# - TR" "C98220"
+				(at 2.794 44.45 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2 Part# - CT" "C98220"
+				(at 2.794 46.99 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Vendor 2" "LCSC Electronics"
+				(at 2.794 41.91 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "Purchase Link 2" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-0710KL_C98220.html"
+				(at 2.794 49.53 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+					(hide yes)
+				)
+			)
+			(property "SCH CHECK" "SCH (N/A)"
+				(at 2.794 16.256 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "PCB CHECk" "PCB (N/A)"
+				(at 2.794 19.05 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(symbol "RES_10kR_1/10W_1%_R0603_0_1"
+				(polyline private
+					(pts
+						(xy 2.54 2.54) (xy 27.94 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 5.08) (xy 27.94 5.08)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 7.62) (xy 27.94 7.62)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 10.16) (xy 27.94 10.16)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 12.7) (xy 27.94 12.7)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 15.24) (xy 27.94 15.24)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 17.78) (xy 27.94 17.78)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 20.32) (xy 27.94 20.32)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 22.86) (xy 27.94 22.86)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 25.4) (xy 27.94 25.4)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 27.94) (xy 27.94 27.94)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 30.48) (xy 27.94 30.48)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 33.02) (xy 27.94 33.02)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 35.56) (xy 27.94 35.56)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 38.1) (xy 27.94 38.1)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 40.64) (xy 27.94 40.64)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 43.18) (xy 27.94 43.18)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 45.72) (xy 27.94 45.72)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 48.26) (xy 27.94 48.26)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline private
+					(pts
+						(xy 2.54 50.8) (xy 27.94 50.8)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.81 0) (xy 4.445 1.27) (xy 5.715 -1.27) (xy 6.985 1.27) (xy 8.255 -1.27) (xy 8.89 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "RES_10kR_1/10W_1%_R0603_1_1"
+				(pin passive line
+					(at 0 0 0)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 0 180)
+					(length 3.81)
+					(name ""
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:+5V"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+5V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+5V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+5V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "power:GND2"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND2"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND2_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND2_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 224.79 184.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "555c5011-fc03-468a-a957-8a53297cecf4")
+	)
+	(junction
+		(at 269.24 172.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72911ec3-8af9-463f-9a35-75d35d8c4309")
+	)
+	(junction
+		(at 320.04 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "83f890b5-762a-45c5-a0e4-57b6d716cbe1")
+	)
+	(junction
+		(at 314.96 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b69989b5-68b4-42e2-b79d-2aed35b6addf")
+	)
+	(junction
+		(at 224.79 181.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fe29b7a1-3ee4-49b0-867e-5fc0b0e108f1")
+	)
+	(wire
+		(pts
+			(xy 242.57 181.61) (xy 224.79 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "086b6e8e-4fd6-49d9-86a9-a39ef1195b57")
+	)
+	(polyline
+		(pts
+			(xy 267.97 161.29) (xy 269.24 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10aaec9d-433a-4b70-b9c3-a7f83d30a646")
+	)
+	(wire
+		(pts
+			(xy 320.04 179.07) (xy 320.04 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11235ad1-760c-4e46-b302-008e16c1c99f")
+	)
+	(wire
+		(pts
+			(xy 269.24 184.15) (xy 267.97 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12716841-7beb-420d-a9ce-d502811a8d4c")
+	)
+	(polyline
+		(pts
+			(xy 267.97 161.29) (xy 270.51 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16e5bc01-5542-47c8-bfd5-7d8ca59d5532")
+	)
+	(wire
+		(pts
+			(xy 314.96 181.61) (xy 267.97 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1874364c-aab6-4bfa-8909-381b330da1f3")
+	)
+	(wire
+		(pts
+			(xy 228.6 232.41) (xy 241.3 232.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d89c0ee-d25c-481c-90fe-83f03f8f7b24")
+	)
+	(wire
+		(pts
+			(xy 228.6 224.79) (xy 241.3 224.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2421286c-0e35-42f9-979b-b9eb52c7f68d")
+	)
+	(wire
+		(pts
+			(xy 224.79 209.55) (xy 224.79 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d950c78-7b25-4417-9991-40992a023d45")
+	)
+	(wire
+		(pts
+			(xy 267.97 179.07) (xy 320.04 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4948b286-3f70-4c68-9eb9-edd5c580143d")
+	)
+	(wire
+		(pts
+			(xy 215.9 181.61) (xy 224.79 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4edae272-8d96-45a3-8498-0fc80ab13521")
+	)
+	(wire
+		(pts
+			(xy 269.24 172.72) (xy 269.24 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "607ec9e4-55d8-4740-a751-e24ca2926ed5")
+	)
+	(wire
+		(pts
+			(xy 269.24 172.72) (xy 284.48 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "647ca4e4-89fa-441a-8163-7ad3cab05372")
+	)
+	(wire
+		(pts
+			(xy 269.24 185.42) (xy 269.24 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78210324-362c-4d48-b396-0f79f19d0bbd")
+	)
+	(wire
+		(pts
+			(xy 242.57 184.15) (xy 224.79 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ebd361b-abdb-46cc-99ea-afe506f208e6")
+	)
+	(wire
+		(pts
+			(xy 215.9 179.07) (xy 242.57 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "870267b3-fde7-4c97-a18b-e91e85fa0342")
+	)
+	(wire
+		(pts
+			(xy 269.24 154.94) (xy 269.24 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88fc9981-d632-42eb-88f2-868386428bcc")
+	)
+	(wire
+		(pts
+			(xy 236.22 219.71) (xy 241.3 219.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c83e97d-4801-4513-8a15-e86480daf4ab")
+	)
+	(wire
+		(pts
+			(xy 224.79 184.15) (xy 224.79 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a190d989-eb81-4d5c-bcdb-18cf4fae81d5")
+	)
+	(wire
+		(pts
+			(xy 314.96 181.61) (xy 350.52 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4d6fdb5-285d-4307-a257-51922631478d")
+	)
+	(wire
+		(pts
+			(xy 320.04 179.07) (xy 350.52 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8aa6c66-5db0-4ad2-a82c-3881c535f319")
+	)
+	(wire
+		(pts
+			(xy 231.14 236.22) (xy 241.3 236.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfdd2bc6-92c9-4fbb-b258-47efe257c520")
+	)
+	(polyline
+		(pts
+			(xy 269.24 162.56) (xy 270.51 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce5fde3f-2661-494c-bf7d-117eecd2d82c")
+	)
+	(wire
+		(pts
+			(xy 228.6 228.6) (xy 241.3 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d772506b-6b1a-49df-a737-cfdacdbb0873")
+	)
+	(wire
+		(pts
+			(xy 267.97 176.53) (xy 269.24 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f24ca12d-85e7-4de2-a05b-2c8985d0038c")
+	)
+	(wire
+		(pts
+			(xy 297.18 172.72) (xy 307.34 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f76b374f-7349-4e89-9cb4-88e6306e017f")
+	)
+	(wire
+		(pts
+			(xy 224.79 181.61) (xy 224.79 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7b6cae4-283c-4c0d-8e57-a66f73ec40e2")
+	)
+	(wire
+		(pts
+			(xy 317.5 214.63) (xy 317.5 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8a7acb7-37fb-4a9a-9482-492ed6f83e10")
+	)
+	(wire
+		(pts
+			(xy 314.96 181.61) (xy 314.96 191.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe7d8177-3f61-44e2-a15d-11ecff57c487")
+	)
+	(wire
+		(pts
+			(xy 215.9 176.53) (xy 242.57 176.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff5d1975-83aa-4052-aa35-8ed53a3bdfae")
+	)
+	(rectangle
+		(start 266.7 156.21)
+		(end 274.32 166.37)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 02299e3b-a557-4189-9d5a-8233c778e95d)
+	)
+	(text "I = 25mA"
+		(exclude_from_sim no)
+		(at 272.542 161.798 90)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "65c7008a-057a-4c91-a051-2cd56d46ac62")
+	)
+	(label "THVD_R"
+		(at 228.6 228.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "06213892-594a-4d68-92b9-e7b10c6d68a0")
+	)
+	(label "RS485_B_-"
+		(at 339.09 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "350abd0c-2af0-4a1e-ae03-0b9074c2d4ad")
+	)
+	(label "THVD_R"
+		(at 234.95 176.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "43361646-6b4c-41d9-baca-6c1fb6ada5aa")
+	)
+	(label "THVD_D"
+		(at 228.6 224.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bb8e4cd3-7623-4ea9-9c82-cd8badec34fc")
+	)
+	(label "THVD_E"
+		(at 234.95 181.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c06090ee-1f58-4969-9a54-96065e10684f")
+	)
+	(label "THVD_E"
+		(at 234.95 184.15 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c5835d67-9139-493b-b109-819aa7f83ffd")
+	)
+	(label "THVD_D"
+		(at 234.95 179.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ced19f9f-f5b8-4bd6-94c0-336c92706256")
+	)
+	(label "RS485_A_+"
+		(at 339.09 181.61 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f5e8e155-c70c-4bbf-96ad-c78871ea0bb9")
+	)
+	(hierarchical_label "CLOCK"
+		(shape input)
+		(at 228.6 232.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4775d054-f548-4ed4-9ee5-24e433b64d64")
+	)
+	(hierarchical_label "THVD_R"
+		(shape output)
+		(at 215.9 176.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5b1e342b-3ba4-43ab-b419-2f2f48d52a8f")
+	)
+	(hierarchical_label "THVD_E"
+		(shape input)
+		(at 215.9 181.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7832034a-1aed-4d36-b226-ecc3215c58e6")
+	)
+	(hierarchical_label "THVD_D"
+		(shape input)
+		(at 215.9 179.07 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fece5fac-f898-4f63-871f-4625443880fb")
+	)
+	(symbol
+		(lib_id "power:GND2")
+		(at 317.5 215.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1bb569a7-e605-4fe5-a248-1ae376a3037a")
+		(property "Reference" "#PWR01407"
+			(at 317.5 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND2"
+			(at 317.5 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 317.5 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
+			(at 317.5 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0121c8d3-1734-4428-b945-af774776db5e")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(reference "#PWR01407")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "_SCHLIB_ESP32-IsoLink:RES_10kR_1/10W_1%_R0603")
+		(at 224.79 190.5 270)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "25979f80-5cc9-42fd-ac11-4df2b655ef3d")
+		(property "Reference" "R1401"
+			(at 227.33 191.7699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10kR_1/10W_1%"
+			(at 227.33 194.3099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "_PCBLIB_ESP32-IsoLink:R_0603_1608Metric"
+			(at 238.76 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+			(at 276.86 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film"
+			(at 233.68 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "R0603"
+			(at 227.33 196.8499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer 1" "Panasonic Electronic Components"
+			(at 246.38 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN 1" "ERJ-3EKF1002V"
+			(at 248.666 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1 Part# - TR" "P10.0KHTR-ND"
+			(at 254 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1 Part# - CT" "P10.0KHCT-ND"
+			(at 256.54 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1" "Digikey"
+			(at 251.46 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link 1" "https://www.digikey.ca/en/products/detail/panasonic-electronic-components/ERJ-3EKF1002V/196066"
+			(at 259.08 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "YAGEO"
+			(at 261.62 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN 2" "RC0603FR-0710KL"
+			(at 264.16 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part# - TR" "C98220"
+			(at 269.24 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part# - CT" "C98220"
+			(at 271.78 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2" "LCSC Electronics"
+			(at 266.7 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link 2" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-0710KL_C98220.html"
+			(at 274.32 193.294 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "SCH CHECK" "SCH (N/A)"
+			(at 227.33 199.3899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "PCB CHECk" "PCB (N/A)"
+			(at 227.33 201.9299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "2"
+			(uuid "51147097-bb5b-4d99-b75b-bfc0f195483e")
+		)
+		(pin "1"
+			(uuid "19a0254b-99d2-453f-a88a-ed6f4ed5d269")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(reference "R1401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 236.22 219.71 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "374f84cd-242f-4ea5-8e8b-2a11bf162dd1")
+		(property "Reference" "#PWR01403"
+			(at 240.03 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 232.41 219.7099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 236.22 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 236.22 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 236.22 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a25c367-307f-4850-be96-4ac990744765")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(reference "#PWR01403")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 269.24 154.94 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "49fd1ca3-377d-4b4f-a615-5bb0a8e57fba")
+		(property "Reference" "#PWR01404"
+			(at 269.24 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 269.24 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 269.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 269.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 269.24 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2aa8a118-9921-4e30-b239-33e227e0ecc1")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(reference "#PWR01404")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "_SCHLIB_ESP32-IsoLink:CAP_MLCC_1uF_16V_10%_X7R_C0603")
+		(at 284.48 172.72 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5333aa92-13a4-4f86-99f3-f17a56c3aeaa")
+		(property "Reference" "C1401"
+			(at 296.926 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF_16V_10%"
+			(at 271.526 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "_PCBLIB_ESP32-IsoLink:C_0603_1608Metric"
+			(at 287.274 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL10B105KO8NNN"
+			(at 287.274 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "1 µF ±10% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
+			(at 287.274 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "C0603"
+			(at 278.13 174.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer 1" "Samsung Electro-Mechanics"
+			(at 287.274 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN 1" "CL10B105KO8NNNC"
+			(at 287.274 148.844 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1 Part# - TR" "1276-1019-2-ND"
+			(at 287.274 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1 Part# - CT" "1276-1019-1-ND"
+			(at 287.274 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1" "Digikey"
+			(at 287.274 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link 1" "https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL10B105KO8NNNC/3886677"
+			(at 287.274 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Samsung Electro-Mechanics"
+			(at 287.274 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN 2" "CL10B105KO8NNNC"
+			(at 287.274 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part# - TR" "CL10B105KO8NNNC"
+			(at 287.274 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part# - CT" "CL10B105KO8NNNC"
+			(at 287.274 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2" "LCSC Electronics"
+			(at 287.274 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link 2" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10B105KO8NNNC_C59782.html?s_z=n_CL10B105KO8NNNC"
+			(at 287.274 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "SCH CHECK" "SCH (N/A)"
+			(at 296.926 174.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "PCB CHECk" "PCB (N/A)"
+			(at 296.926 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "2"
+			(uuid "9961b79b-6d06-4106-8f59-afd0407afbb2")
+		)
+		(pin "1"
+			(uuid "493e9dca-0fce-41c9-9b22-2a87a2a3481b")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(reference "C1401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "_SCHLIB_ESP32-IsoLink:CONN_TERM BLK_1x2_150V_6A_HORIZON_THD-2.54MM")
+		(at 355.6 175.26 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "59d40660-2d76-4db9-bafd-1f4fbede021b")
+		(property "Reference" "J1401"
+			(at 363.22 175.2599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TERM_1x02_HORIZON"
+			(at 363.22 177.7999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "_PCBLIB_ESP32-IsoLink:TerminalBlock-2.54-2P_1x02_P2.54mm_Horizontal"
+			(at 358.394 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/katalog/datasheet/6912109100xx.pdf"
+			(at 358.394 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "2 Position Wire to Board Terminal Block Horizontal with Board 0.100\" (2.54mm) Through Hole"
+			(at 358.394 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "THD-2.54MM"
+			(at 363.22 180.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer 1" "Würth Elektronik"
+			(at 358.394 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN 1" "691210910002"
+			(at 358.394 151.384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1 Part# - TR" "732-691210910002-ND"
+			(at 358.394 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1 Part# - CT" "732-691210910002-ND"
+			(at 358.394 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1" "Digikey"
+			(at 358.394 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link 1" "https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/691210910002/10668428"
+			(at 358.394 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "MAX"
+			(at 358.394 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN 2" "MX128-2.54-02P-GN01-Cu-Y-A"
+			(at 358.394 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part# - TR" "C5188442"
+			(at 358.394 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part# - CT" "C5188442"
+			(at 358.394 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2" "LCSC Electronics"
+			(at 358.394 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link 2" "https://www.lcsc.com/product-detail/Screw-Terminal-Blocks_MAX-MX128-2-54-02P-GN01-Cu-Y-A_C5188442.html?s_z=n_2.54mm"
+			(at 358.394 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "SCH CHECK" "SCH (N/A)"
+			(at 363.22 182.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "PCB CHECk" "PCB (N/A)"
+			(at 363.22 185.4199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "cb0a8992-e6b4-43f2-9b2d-7202370051bb")
+		)
+		(pin "2"
+			(uuid "8457f14f-5947-474a-8407-228aecb2623b")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(reference "J1401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND2")
+		(at 269.24 185.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6c978fbc-27d6-4c70-a870-d3f3e8ce2018")
+		(property "Reference" "#PWR01405"
+			(at 269.24 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND2"
+			(at 269.24 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 269.24 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 269.24 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
+			(at 269.24 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ab054ebf-0bf3-42ce-a1fb-a8ddb827a539")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(reference "#PWR01405")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND2")
+		(at 224.79 209.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7bffc74a-4452-4c5f-a383-036f914f7099")
+		(property "Reference" "#PWR01401"
+			(at 224.79 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND2"
+			(at 224.79 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
+			(at 224.79 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "44f6475e-f306-4da1-85bf-8992324bda0d")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(reference "#PWR01401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "_SCHLIB_ESP32-IsoLink:IC_Transceiver_THVD1400DR_Half-Duplex_RS485_8-SOIC (0.154{dblquote})")
+		(at 247.65 173.99 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a1a46ae6-20f6-4c8c-a500-3c79982ffa28")
+		(property "Reference" "U1401"
+			(at 255.27 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "THVD1400DR"
+			(at 255.27 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "_PCBLIB_ESP32-IsoLink:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 250.444 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fthvd1400"
+			(at 250.444 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "1/1 Transceiver Half RS422, RS485 8-SOIC (0.154\")"
+			(at 250.444 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "8-SOIC (0.154\")"
+			(at 255.27 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer 1" "Texas Instruments"
+			(at 250.444 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN 1" "THVD1400DR"
+			(at 250.444 150.114 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1 Part# - TR" "296-THVD1400DRTR-ND"
+			(at 250.444 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1 Part# - CT" "296-THVD1400DRCT-ND"
+			(at 250.444 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1" "Digikey"
+			(at 250.444 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link 1" "https://www.digikey.ca/en/products/detail/texas-instruments/THVD1400DR/13636656?s=N4IgTCBcDa4JwDYC0AVAEgNQCIEYAsADAVgEoolIByWIAugL5A"
+			(at 250.444 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "Texas Instruments"
+			(at 250.444 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN 2" "THVD1400DR"
+			(at 250.444 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part# - TR" "C3235232"
+			(at 250.444 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part# - CT" "C3235232"
+			(at 250.444 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2" "LCSC Electronics"
+			(at 250.444 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link 2" "https://www.lcsc.com/product-detail/RS-485-RS-422-ICs_Texas-Instruments-THVD1400DR_C3235232.html?s_z=n_THVD1400DR"
+			(at 250.444 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "SCH CHECK" "SCH (N/A)"
+			(at 255.27 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PCB CHECk" "PCB (N/A)"
+			(at 255.27 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "7"
+			(uuid "6d8bcfe0-f423-43e3-8394-89f1674c8cd8")
+		)
+		(pin "1"
+			(uuid "35551759-43e6-48ae-8901-3e486c2821b2")
+		)
+		(pin "6"
+			(uuid "81326564-4375-45b3-9d44-cf36cfe81358")
+		)
+		(pin "2"
+			(uuid "4985e397-2320-4dbb-818b-32e0fa40b2d0")
+		)
+		(pin "3"
+			(uuid "3803fb35-dbb8-4751-9364-3e6bb2ddd1a5")
+		)
+		(pin "4"
+			(uuid "9a72c5f1-2da1-4b3a-978b-58fc8ef08339")
+		)
+		(pin "5"
+			(uuid "a4d95698-6433-40f9-8dd2-8e7ee389da79")
+		)
+		(pin "8"
+			(uuid "2ea97a70-08a0-4105-b450-c4dad1535d09")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(reference "U1401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "_SCHLIB_ESP32-IsoLink:DIODE_TVS_CDSOT23-SM712_12V/7V_13.3V/ 7.5V_17A(8/20us)_SOT-23-3")
+		(at 323.85 196.85 270)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a7c6f13a-9c2f-4669-b329-4036449de376")
+		(property "Reference" "D1401"
+			(at 325.12 198.1199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TVS_12V/7V_17A"
+			(at 325.12 200.6599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "_PCBLIB_ESP32-IsoLink:SOT-23-3"
+			(at 337.82 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/Product-Datasheets/CDSOT23-SM712.pdf"
+			(at 375.92 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "26V, 14V Clamp 17A (8/20µs) Ipp Tvs Diode Surface Mount SOT-23-3"
+			(at 332.74 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-3"
+			(at 325.12 203.1999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Manufacturer 1" "Bourns Inc."
+			(at 345.44 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN 1" "CDSOT23-SM712"
+			(at 347.726 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1 Part# - TR" "CDSOT23-SM712TR-ND"
+			(at 353.06 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1 Part# - CT" "CDSOT23-SM712CT-ND"
+			(at 355.6 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 1" "Digikey"
+			(at 350.52 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link 1" "https://www.digikey.ca/en/products/detail/bourns-inc/CDSOT23-SM712/1630592"
+			(at 358.14 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer 2" "BOURNS"
+			(at 360.68 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "MPN 2" "CDSOT23-SM712"
+			(at 363.22 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part# - TR" "C404012"
+			(at 368.3 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2 Part# - CT" "C404012"
+			(at 370.84 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Vendor 2" "LCSC Electronics"
+			(at 365.76 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Purchase Link 2" "https://www.lcsc.com/product-detail/ESD-and-Surge-Protection-TVS-ESD_BOURNS-CDSOT23-SM712_C404012.html?s_z=n_CDSOT23-SM712"
+			(at 373.38 199.644 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "SCH CHECK" "SCH (N/A)"
+			(at 325.12 205.7399 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "PCB CHECk" "PCB (N/A)"
+			(at 325.12 208.2799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "3"
+			(uuid "d349438d-3e96-4075-b186-e890dfff50de")
+		)
+		(pin "1"
+			(uuid "895c89c8-c049-499a-8963-d066d97690da")
+		)
+		(pin "2"
+			(uuid "0a6e7e55-4abf-4174-ab25-d74932cca288")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(reference "D1401")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND2")
+		(at 231.14 236.22 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ef077d4c-1eff-42f7-8ab7-d1ba9d6ee7a5")
+		(property "Reference" "#PWR01402"
+			(at 224.79 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND2"
+			(at 227.33 236.2199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 231.14 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 231.14 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
+			(at 231.14 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a052d1c5-4401-42e2-9a1a-740b4fefc3f8")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(reference "#PWR01402")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND2")
+		(at 307.34 172.72 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fdb95885-d5d2-4012-81b4-603243458162")
+		(property "Reference" "#PWR01406"
+			(at 313.69 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND2"
+			(at 311.15 172.7199 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 307.34 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND2\" , ground"
+			(at 307.34 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fc9b479d-e9f6-4b84-bf53-86c98c56316e")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(reference "#PWR01406")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 241.3 215.9)
+		(size 25.4 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c63bfef0-ded7-4fb7-828b-de9c5a0f9266")
+		(property "Sheetname" "LINE_INDICATOR"
+			(at 241.3 215.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "[16]_LINE_INDICATOR.kicad_sch"
+			(at 241.3 241.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "LINE_2" input
+			(at 241.3 228.6 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "ca40f7b9-727c-4b1e-b703-d7a75e57a9ef")
+		)
+		(pin "GND" passive
+			(at 241.3 236.22 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "0d5c9ea5-034f-4caf-805c-ad643bbdbffe")
+		)
+		(pin "VCC" passive
+			(at 241.3 219.71 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "649916f5-28f2-4a24-8b27-cb5649a48a3a")
+		)
+		(pin "LINE_1" input
+			(at 241.3 224.79 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "6195339e-43dd-45e5-a79b-9cbf1452e7ad")
+		)
+		(pin "CLOCK" input
+			(at 241.3 232.41 180)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+			(uuid "bf01d14a-e568-4225-99fb-f9856a29f195")
+		)
+		(instances
+			(project "_HW_ESP32-IsoLink"
+				(path "/99bc6349-5d9f-4cd4-8578-8a7ee8547f19/5f490fc5-d544-409d-b15b-f738a2368fae/275ae6ed-2c1b-48ee-9f33-8ef0c9e04b60"
+					(page "19")
+				)
+			)
+		)
+	)
+)

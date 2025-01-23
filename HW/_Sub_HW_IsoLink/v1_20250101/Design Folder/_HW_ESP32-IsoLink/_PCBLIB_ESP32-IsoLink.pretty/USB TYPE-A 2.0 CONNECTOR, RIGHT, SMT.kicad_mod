@@ -1,0 +1,329 @@
+(footprint "USB TYPE-A 2.0 CONNECTOR, RIGHT, SMT"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "USB TYPE-A 2.0 CONNECTOR, RIGHT, SMT")
+	(property "Reference" "REF**"
+		(at -4.1275 -11.94 0)
+		(layer "F.SilkS")
+		(uuid "253df03f-9ed4-4a42-ac1e-feb4d237a5ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SWITCHCRAFT_RAHUA20E"
+		(at 5.3975 -10.3525 0)
+		(layer "F.Fab")
+		(uuid "76163e82-8923-4ff3-b0fb-a3c75ac87446")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d8f54b4a-26e5-4933-b72e-cc441c2161fa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b62599d2-6a3a-45aa-a7b3-f8eafda08dc0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a769a9fa-6f2d-4b76-bde8-6cb07089b750")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -7.25 6.85)
+		(end -7.25 -1.385)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5f1711fa-945d-40ef-b99c-521dcb85b6d5")
+	)
+	(fp_line
+		(start -7.25 6.85)
+		(end 7.25 6.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3d928a48-2b9b-42c8-b2e2-41621b1a077b")
+	)
+	(fp_line
+		(start -4.365 -6.85)
+		(end -5.935 -6.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b5c1adcd-f9c0-4a2a-b1aa-02f70084cc6d")
+	)
+	(fp_line
+		(start 5.935 -6.85)
+		(end 4.365 -6.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0cd6c970-beef-4071-bfd3-dc5ef579bef6")
+	)
+	(fp_line
+		(start 7.25 6.85)
+		(end 7.25 -1.385)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "bbcc96ea-3ebe-475c-a879-c9c2670f196a")
+	)
+	(fp_circle
+		(center -3.5 -9.3)
+		(end -3.4 -9.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "6ab4fdef-17bf-4ff7-a356-146ef87b3d09")
+	)
+	(fp_circle
+		(center -2.5 -3.05)
+		(end -2.048 -3.05)
+		(stroke
+			(width 0.904)
+			(type solid)
+		)
+		(fill none)
+		(layer "B.Mask")
+		(uuid "297a4260-23bf-41a2-8de2-13db23bd0dde")
+	)
+	(fp_circle
+		(center 2.5 -3.05)
+		(end 2.952 -3.05)
+		(stroke
+			(width 0.904)
+			(type solid)
+		)
+		(fill none)
+		(layer "B.Mask")
+		(uuid "17157eea-404c-46b1-a6ac-c78423ecc103")
+	)
+	(fp_circle
+		(center -2.5 -3.05)
+		(end -2.048 -3.05)
+		(stroke
+			(width 0.904)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Mask")
+		(uuid "ee37fcdf-9ea4-4afc-b1af-baf3a58c0c4f")
+	)
+	(fp_circle
+		(center 2.5 -3.05)
+		(end 2.952 -3.05)
+		(stroke
+			(width 0.904)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Mask")
+		(uuid "33ee612b-6415-48a9-bc7a-46e1ad2ffc98")
+	)
+	(fp_line
+		(start -8.8 -8.9)
+		(end -8.8 7.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4106e744-adac-4640-b9d0-27a17ea3d4a2")
+	)
+	(fp_line
+		(start -8.8 7.1)
+		(end 8.8 7.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c6ce8cb0-c497-4b33-b47e-4bae4ef79869")
+	)
+	(fp_line
+		(start 8.8 -8.9)
+		(end -8.8 -8.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e2c92a31-7c07-40d3-a252-d0e1e5fc5a8f")
+	)
+	(fp_line
+		(start 8.8 7.1)
+		(end 8.8 -8.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d605c545-6bb8-4a81-906c-d10d19b72533")
+	)
+	(fp_line
+		(start -7.25 -6.85)
+		(end -7.25 6.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c10f01d3-092f-42b7-9beb-0020539d170d")
+	)
+	(fp_line
+		(start -7.25 6.85)
+		(end 7.25 6.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "040e745c-cdcc-4438-b5fa-c058f205c0f8")
+	)
+	(fp_line
+		(start 7.25 -6.85)
+		(end -7.25 -6.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e9939b44-17ed-4d6e-ba16-f22187fef3da")
+	)
+	(fp_line
+		(start 7.25 6.85)
+		(end 7.25 -6.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9929d550-5380-4a6a-ad63-b89c6fbd3bfd")
+	)
+	(fp_circle
+		(center -3.5 -9.3)
+		(end -3.4 -9.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "27ddf5c1-fd82-46f2-b560-c1f764f73c01")
+	)
+	(pad "" np_thru_hole circle
+		(at -2.5 -3.05)
+		(size 1.3 1.3)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(uuid "a66b23a2-4b59-4104-aaf8-67f80d271791")
+	)
+	(pad "" np_thru_hole circle
+		(at 2.5 -3.05)
+		(size 1.3 1.3)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(uuid "a008a0ed-e44f-4f87-a3df-0e498a914fbb")
+	)
+	(pad "1" smd rect
+		(at -3.5 -6.75)
+		(size 1.1 3.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "24526339-7677-4fa6-a84e-6be01ca29dcb")
+	)
+	(pad "2" smd rect
+		(at -1 -6.75)
+		(size 1.1 3.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "90f8ba00-6037-4c52-aac2-c8cb69f583d3")
+	)
+	(pad "3" smd rect
+		(at 1 -6.75)
+		(size 1.1 3.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "f5c4c2b1-e62f-4295-b477-34977415f1e4")
+	)
+	(pad "4" smd rect
+		(at 3.5 -6.75)
+		(size 1.1 3.8)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "da6d4c02-1496-434b-9670-0e8cfe6e1c32")
+	)
+	(pad "SH" smd rect
+		(at -7.4 -4.35)
+		(size 2.3 5.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "28de5693-d159-403c-8605-1260553ac2ba")
+	)
+	(pad "SH" smd rect
+		(at 7.4 -4.35)
+		(size 2.3 5.3)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "77378087-1ca9-486a-9d0e-ca8e658f91df")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_TE_292303-7_Horizontal.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
