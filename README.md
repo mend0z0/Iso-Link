@@ -20,7 +20,7 @@ __IOT, Development Board__
 - Includes Common Industrial/Automotive Ports (RS485, CAN, DALI, LIN, I2C)
 - 1 x USB2.0 OTG Port
 - Single Power Supply (+6V ~ +36V)
-- Ready API to monitor and analyze different bus lines simulatenously
+- Ready API to monitor and analyze all bus lines simulatenously
 
 ## Hardware System Design Block Diagram
 
