@@ -1,6 +1,6 @@
 ## Latest update
 
-The layout is done, working on documentation and getting prepared for assembly.
+The layout is done, working on documentation and getting prepared for PCBA.
 
 # Project
 
