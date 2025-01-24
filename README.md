@@ -1,10 +1,6 @@
 ## Latest update
 
-
-
-[Update On The Project](https://www.youtube.com/watch?v=Y3GoYqw6YXA&list=PLBWrS0_J_mZ2AYpXI1URpqJv-m0bLa1Cb)
-
-
+The layout is done, working on documentation and getting prepared for assembly.
 
 # Project
 
@@ -52,9 +48,9 @@ __IOT, Development Board__
 |:---:|:---:|
 |![_Final Device_Top](https://github.com/mend0z0)|![_Final Device_Bottom](https://github.com/mend0z0)|
 
-## Demo
+## Videos
 
-Not ready yet for demo...
+[Update On The Project](https://www.youtube.com/watch?v=Y3GoYqw6YXA&list=PLBWrS0_J_mZ2AYpXI1URpqJv-m0bLa1Cb)
 
 ## Author
 
