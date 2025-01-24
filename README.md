@@ -40,9 +40,13 @@ __IOT, Development Board__
 |:---|
 |<table><tbody><tr><td colspan="2" align="center">__Hardware__</h4></td></tr><tr><td>__Microchip :__</td> <td> Std.: ESP32-S3 / Prem.: STM32U5 </td></tr> <tr><td>__PCB Layers :__</td> <td> 4 Layers </td></tr> <tr><td>__Board Dimensions :__ </td> <td> 75 x 50 mm </td></tr> <tr><td>__CAD :__</td> <td> KiCAD </td></tr><tr><td colspan="2" align="center">__Firmware__</h4></td></tr><tr><td>__Language :__</td> <td> C </td></tr> <tr><td>__OS :__</td> <td> FreeRTOS </td></tr> <tr><td>__IDE :__</td> <td> Espressif-IDE / STM32CubeIDE </td></tr><tr><td colspan="2" align="center">__Application__</h4></td></tr><tr><td>__Language :__</td> <td> Python </td></tr> <tr><td>__App Type :__</td> <td> Web Application </td></tr> <tr><td>__IDE :__</td> <td> VSC </td></tr></table>|
 
-|PCB Top View|PCB Bottom View|Final Device|
-|:---:|:---:|:---:|
-|![Latest Version_Top](https://github.com/mend0z0/Iso-Link/blob/main/DOC/Pictures/_3DView_Top_IsoLink_v1.0.png)|![Latest Version_Bottom](https://github.com/mend0z0/Iso-Link/blob/main/DOC/Pictures/_3DView_Bottom_IsoLink_v1.0.png)|![_Final Device_](https://github.com/mend0z0)|
+|PCB Top View|PCB Bottom View|
+|:---:|:---:|
+|![Latest Version_Top](https://github.com/mend0z0/Iso-Link/blob/main/DOC/Pictures/_3DView_Top_IsoLink_v1.0.png)|![Latest Version_Bottom](https://github.com/mend0z0/Iso-Link/blob/main/DOC/Pictures/_3DView_Bottom_IsoLink_v1.0.png)|
+
+|Final Device Top|Final Device Bottom|
+|:---:|:---:|
+|![_Final Device_Top](https://github.com/mend0z0)||![_Final Device_Bottom](https://github.com/mend0z0)|
 
 ## Demo
 
