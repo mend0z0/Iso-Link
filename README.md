@@ -24,7 +24,7 @@ __IOT, Development Board__
 
 ## Hardware System Design Block Diagram
 
-![HardwareDesign]()
+![HardwareDesign](https://github.com/mend0z0/Iso-Link/blob/main/DOC/Block%20Diagrams/_FBD_SYS_HW_ISO-LINK.svg)
 
 ## Firmware System Design Block Diagram
 
