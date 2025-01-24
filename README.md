@@ -10,7 +10,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iso-Link is a control board that provides access to multiple industrial/automotive ports such as RS485, CAN, LIN, and DALI. The main propose of this board is to log line activites and or develope/implement new features to your system. It's possible to monitor and analyze the system for any troubleshooting purposes. In addition, the goal is to develop and eliminate the hassle of implmenting low level drivers and OS stack layer for industrial/automotive protocols. Here is a list of protocols that will be implemented in this project
 
-|<div style="text-align: center;">RS485</div>|<div style="text-align: center;">CANBus</div>|<div style="text-align: center;">DALI</div>|<div style="text-align: center;">LIN</div>|<div style="text-align: center;">I2C</div>|
+|RS485|CANBus|DALI|LIN|I2C|
 |:---|:---|:---|:---|:---|
 |1. Modbus ASCII<br>2. Modbus RTU <br>3. Profibus DP <br>4. DNP3 <br>5. BACnet MS/TP<br>6. HART<br>7. IEC 61850<br>8. IEC 62056|1. CANOpen<br>2. J1939<br>3. DeviceNet<br>4. NMEA 2000<br>5. SAE J1708<br>6. OBD-II <br>7. CANopen Safety<br>8. FlexRay<br>9. ISO 11898-1|1. DALI-2<br>2. DALI-2/DT8<br>3. DALI-2/DT6<br>4. DALI+<br>5. BACnet<br>6. KNX|1. SAE J2602 <br>2. UDS on LIN<br>3. BWM LIN Protocol|1. I2C<br>2. SMBus<br>3. PMBus|
 
