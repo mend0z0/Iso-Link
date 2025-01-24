@@ -46,7 +46,7 @@ __IOT, Development Board__
 
 |Final Device Top|Final Device Bottom|
 |:---:|:---:|
-|![_Final Device_Top](https://github.com/mend0z0)||![_Final Device_Bottom](https://github.com/mend0z0)|
+|![_Final Device_Top](https://github.com/mend0z0)|![_Final Device_Bottom](https://github.com/mend0z0)|
 
 ## Demo
 
