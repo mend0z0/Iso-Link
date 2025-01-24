@@ -24,7 +24,7 @@ __IOT, Development Board__
 - Isolated & SVP Ports
 - 1 x USB2.0 OTG Port
 - Single Power Supply (+6V ~ +36V)
-- Accessing to API to interact with popular industrial/automotive protocol.
+- Ready API to interact with popular industrial/automotive protocol.
 
 ## Hardware System Design Block Diagram
 
