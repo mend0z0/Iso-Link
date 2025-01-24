@@ -4,7 +4,7 @@ The layout is done, working on documentation and getting prepared for PCBA.
 
 # Project
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iso-Link is a full-featured gateway that provides access to multiple industrial/automotive ports such as RS485, CAN, LIN, and DALI through 2.4GHz Wi-Fi (ESP32-S3) or Wi-Fi 6 (Stalwart Module). The main propose of this board is to log line activites and develope/implement new features in your system. It's possible to monitor and analyze the system for any troubleshooting purposes as well. Here is a list of protocols that will be implemented in this project
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iso-Link is a full-featured gateway that provides access to multiple industrial/automotive ports such as RS485, CAN, LIN, and DALI through 2.4GHz Wi-Fi (ESP32-S3) or Wi-Fi 6 (Stalwart Module). This gateway come with APIs to facilitate the communication on popular industrial/automative protocols for troubleshooting, monitoring, controlling connected devices or developing a new industrial/automotive system. Here is a list of protocols that will be supported by this device.
 
 |RS485|CANBus|DALI|LIN|I2C|
 |:---|:---|:---|:---|:---|
