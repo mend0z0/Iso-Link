@@ -8,8 +8,7 @@
 
 # Project
 
-        Iso-Link is a control board that provides access to multiple industrial/automotive ports such as RS485, CAN, LIN, and DALI. The main propose of this board is to log line activites and or develope/implement new features to your system. It's possible to monitor and analyze the system for any troubleshooting purposes. In addition, the goal is to develop and eliminate the hassle of implmenting low level drivers and OS stack layer for industrial/automotive protocols. Here is a list of protocols that will be implemented in this project
-
+Iso-Link is a control board that provides access to multiple industrial/automotive ports such as RS485, CAN, LIN, and DALI. The main propose of this board is to log line activites and or develope/implement new features to your system. It's possible to monitor and analyze the system for any troubleshooting purposes. In addition, the goal is to develop and eliminate the hassle of implmenting low level drivers and OS stack layer for industrial/automotive protocols. Here is a list of protocols that will be implemented in this project
 
 |RS485|CANBus|LIN|DALI|I2C|
 |:---|:---|:---|:---|:---|
